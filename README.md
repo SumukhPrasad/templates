@@ -7,3 +7,4 @@ Current templates:
 - Plain HTML
 - Svelte (Rollup)
 - Svelte (Webpack)
+- NodeJS
